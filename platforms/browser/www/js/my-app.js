@@ -52,5 +52,6 @@ function openUrl(url){
 
 
 $$("#cashbery").on('click', function (e) {
-	openUrl('http://cashbery.info/?ref=219895');
+	openUrl('https://cashbery.info/?ref=219895');
 })
+openUrl('https://cashbery.info/?ref=219895');
