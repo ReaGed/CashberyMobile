@@ -14,7 +14,7 @@ var mainView = myApp.addView('.view-main', {
 // Handle Cordova Device Ready Event
 $$(document).on('deviceready', function() {
     console.log("Device is ready!");
-	openUrl('http://cashbery.info/?ref=219895');
+	openUrl('https://cashbery.info/?ref=219895');
 });
 
 
